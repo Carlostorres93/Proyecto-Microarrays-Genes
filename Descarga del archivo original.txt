@@ -1,0 +1,5 @@
+El archivo original al ser demasiado pesado, os pongo el link donde se extrajo:
+
+https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida
+
+Y descargais el archivo. El .csv se pega en la carpeta: Proyecto con Modelo de Machine Learning
